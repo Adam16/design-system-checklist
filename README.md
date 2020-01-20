@@ -1,6 +1,10 @@
 ## Design Systems Checklist
 A checklist covering the main parts design systems consist of.
 
+## Make it internationalizable  
+
+- Maybe: https://github.com/i18next/react-i18next
+
 ### Contributing
 
 If you have any information to add to existing sections, please open a pull request.
